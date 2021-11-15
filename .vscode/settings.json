@@ -2,13 +2,14 @@
 	"telemetry.enableCrashReporter": false,
 	"editor.semanticHighlighting.enabled": true,
 	"workbench.preferredLightColorTheme": "Tomorrow Night Blue",
-	"workbench.colorTheme": "Purple(Deep-Black);",
+	"workbench.colorTheme": "Default Dark+",
 	"cSpell.words": [
 		"Aalyses",
 		"abce",
 		"aeiou",
 		"apos",
 		"backticks",
+		"Belloni",
 		"destructures",
 		"Devs",
 		"Dipsy",
@@ -19,10 +20,13 @@
 		"linebreak",
 		"maximus",
 		"Mercutio",
+		"Pokeball",
+		"puppyhood",
 		"racecar",
 		"returnfalse",
 		"selice",
 		"spreaded",
+		"statefulness",
 		"Tinky",
 		"Tybalt",
 		"underserved",
@@ -30,5 +34,6 @@
 		"wireframe",
 		"Wireframe",
 		"wireframing"
-	]
+	],
+	"cSpell.ignoreWords": ["asperiores"]
 }

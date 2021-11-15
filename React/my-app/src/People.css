@@ -1,0 +1,21 @@
+body{
+    background: skyblue;
+    /* background: pink; */
+  }
+
+form{
+    background: lightgrey;
+    padding: 20px;
+}
+
+.person form{
+    background: lightgrey;
+    padding: 20px;
+}
+
+body{
+    background: skyblue;
+    transition: all 1s;
+    /* background: pink; */
+}
+
